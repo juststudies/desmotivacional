@@ -1,0 +1,27 @@
+{
+  "name": "desmotivacional",
+  "version": "1.0.0",
+  "description": "simple app made in ReactJS and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juststudies/desmotivacional.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Express"
+  ],
+  "author": "Nicolas Codonho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juststudies/desmotivacional/issues"
+  },
+  "homepage": "https://github.com/juststudies/desmotivacional#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
